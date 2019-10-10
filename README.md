@@ -5,6 +5,8 @@
  
  The notebook contains the code for generating aritifical time series data, for explanation purpose.
  
- Materials - (1) Tycho Brahes Observations.mp4 --> Generated .mp4 using pyhon for the Tycho Brahe Observation of Mars                        Declination.
+ Materials - 
+               
+             (1) Tycho Brahes Observations.mp4 --> Generated .mp4 using pyhon for the Tycho Brahe Observation of Mars                        Declination.
  
              (2) plt1.jpg --> Retail Sales and Population Plot
