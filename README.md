@@ -10,3 +10,7 @@
              (1) Tycho Brahes Observations.mp4 --> Generated .mp4 using pyhon for the Tycho Brahe Observation of Mars                        Declination.
  
              (2) plt1.jpg --> Retail Sales and Population Plot
+
+Prepared Data - 
+
+             (2) retialsales_artificialdata.csv --> Artificially generated Retail sales data.
